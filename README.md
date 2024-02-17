@@ -10,8 +10,8 @@ I graduated from bachelor business administration program in computer informatio
 * 🌍  I'm based in Chiang Mai, Thailand.
 * 🖥️  See my portfolio at [Bkavin Portfolio](http://bkavinportfolio.web.app/)
 * ✉️  You can contact me at [bankbwsep7@gmail.com](mailto:bankbwsep7@gmail.com)
-* 🧠  I'm learning UX/UI and new way OOP
-* ⚡  Running is activity for clear my brain
+* 📝  I'm learning UX/UI and new way OOP
+* ⚡  Running 🏃💨 is activity for clear my brain 🧠
 
 
 ### Skills
