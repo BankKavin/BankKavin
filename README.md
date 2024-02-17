@@ -1,4 +1,5 @@
-Hi 👋 My name is Punyakorn Kawin (Bank)
+Hi 👋 My name is Punyakorn Kawin (Bank) <a href="https://www.github.com/BankKavin" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/BankKavin?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 =======================================
 
 Website Developer
@@ -12,8 +13,6 @@ I graduated from bachelor business administration program in computer informatio
 * 🧠  I'm learning UX/UI and new way OOP
 * ⚡  Running is activity for clear my brain
 
-<a href="https://www.github.com/BankKavin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/BankKavin?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -29,8 +28,7 @@ src="https://img.shields.io/github/followers/BankKavin?logo=github&style=for-the
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats & Top Languages</b>
 
-<a href="http://www.github.com/BankKavin"><img src="https://github-readme-stats.vercel.app/api?username=BankKavin&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="BankKavin's GitHub stats" /></a>
-
+<a href="http://www.github.com/BankKavin"><img src="https://github-readme-stats.vercel.app/api?username=BankKavin&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="BankKavin's GitHub stats" /></a> 
 <a href="https://github.com/BankKavin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BankKavin&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
