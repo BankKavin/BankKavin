@@ -30,4 +30,4 @@ I graduated from bachelor business administration program in computer informatio
 <b>My GitHub Stats & Top Languages</b>
 
 <a href="http://www.github.com/BankKavin"><img src="https://github-readme-stats.vercel.app/api?username=BankKavin&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="BankKavin's GitHub stats" /></a> 
-<a href="https://github.com/BankKavin" align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BankKavin&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/BankKavin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BankKavin&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
